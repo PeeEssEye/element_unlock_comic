@@ -1,0 +1,14 @@
+body {
+    background: #5567f4
+
+}
+img {
+    width: 80vw;
+    display: block;
+}
+
+p {
+    font-size: 10px;
+    color: aquamarine;
+    border: 3px dashed #5a0968
+}
