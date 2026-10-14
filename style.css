@@ -12,3 +12,10 @@ p {
     color: aquamarine;
     border: 3px dashed #5a0968
 }
+
+canvas {
+position:fixed;
+left:0;
+top:0;
+z-index:-1;
+}
